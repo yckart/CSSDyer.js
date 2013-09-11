@@ -1,0 +1,24 @@
+html {
+    color: yckart;
+}
+
+
+/* Something to center the text, needless! */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: table;
+    width: 100%;
+    font: 700 72px sans-serif;
+    text-transform: uppercase;
+}
+
+div {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
